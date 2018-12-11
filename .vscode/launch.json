@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Test it",
-            "program": "${workspaceFolder}/src/playing_with_objects.js"
+            "program": "${workspaceFolder}/src/playing_classes.js"
         }
     ]
 }
