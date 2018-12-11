@@ -1,0 +1,18 @@
+{
+  "name": "ecma6",
+  "version": "1.0.0",
+  "description": "`Some bull crap tryouts around ECMA 6`",
+  "scripts": {
+    "start": "node src/starting.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caglardursun/ECMA6.git"
+  },
+  "keywords": [],
+  "author": "",  
+  "bugs": {
+    "url": "https://github.com/caglardursun/ECMA6/issues"
+  },
+  "homepage": "https://github.com/caglardursun/ECMA6#readme"
+}
