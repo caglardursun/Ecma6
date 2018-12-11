@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caglardursun/ECMA6.git"
+    "url": "git+https://github.com/caglardursun/Ecma.git"
   },
   "keywords": [],
   "author": "",  
   "bugs": {
-    "url": "https://github.com/caglardursun/ECMA6/issues"
+    "url": "https://github.com/caglardursun/Ecma/issues"
   },
-  "homepage": "https://github.com/caglardursun/ECMA6#readme"
+  "homepage": "https://github.com/caglardursun/Ecma#readme"
 }
